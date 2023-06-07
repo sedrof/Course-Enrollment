@@ -35,8 +35,7 @@ Usage
 - Email: institution@institution.com
 - Password: password
 
-Contributing
-----------------------------------------
+
 
 Ideally seed the database first.
 
