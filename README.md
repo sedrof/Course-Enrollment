@@ -35,9 +35,7 @@ Usage
 - Email: institution@institution.com
 - Password: password
 
-
-
-Ideally seed the database first.
+- A normal user can register when he choses a course to enroll in. So basically its recomended to seed the database first.
 
 
 
